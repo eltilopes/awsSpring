@@ -1,0 +1,8 @@
+com\baeldung\lambda\LambdaRequestHandler.class
+com\baeldung\lambda\apigateway\APIDemoHandler.class
+com\baeldung\lambda\LambdaRequestStreamHandler.class
+com\baeldung\lambda\LambdaMethodHandler.class
+com\baeldung\lambda\apigateway\model\Person.class
+com\baeldung\lambda\dynamodb\bean\PersonRequest.class
+com\baeldung\lambda\dynamodb\SavePersonHandler.class
+com\baeldung\lambda\dynamodb\bean\PersonResponse.class
